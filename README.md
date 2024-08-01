@@ -5,7 +5,7 @@
 ---
 ### 8/13 화 17시
 - 정아 :
-- 별 :
+- 별 : https://www.acmicpc.net/problem/16234  https://www.acmicpc.net/problem/1931
 - 동하 : 
 
 ---
