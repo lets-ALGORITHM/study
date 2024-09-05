@@ -4,7 +4,7 @@
 
 
 ### ~9/10
-- 동하 : 
+- 동하 : https://www.acmicpc.net/problem/10713 https://www.acmicpc.net/problem/2170
 - 정아 : https://www.acmicpc.net/problem/1629 https://www.acmicpc.net/problem/1922
 
 ---
