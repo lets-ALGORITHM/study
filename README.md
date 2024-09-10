@@ -2,6 +2,11 @@
 
 - 문제난이도 : 실3 ~ 골5
 
+
+### ~9/10
+- 동하 : https://www.acmicpc.net/problem/10713 https://www.acmicpc.net/problem/2170
+- 정아 : https://www.acmicpc.net/problem/1629 https://www.acmicpc.net/problem/1922
+
 ---
 ### 8/13 화 17시
 - 정아 : https://www.acmicpc.net/problem/15486 https://www.acmicpc.net/problem/2805
