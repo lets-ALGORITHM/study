@@ -27,4 +27,4 @@ def divide_conquer(a, b, c): # a : 거듭제곱할 수, b : 거듭제곱할 횟�
                               # = (a * (a ** (b-1))) % c
                               # = (a ** b) % c
 
-print(divide_conquer(a, b, c))
+print(divide_conquer(a, b, c)) 

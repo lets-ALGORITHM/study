@@ -39,4 +39,4 @@ for a, b, cost in costs:
         ans += cost # 연결하는 데에 든 비용을 정답에 더해준다
         # 미리 간선들을 가중치 오름차순으로 정렬해두었으므로, 자동으로 최소비용으로 노드들을 연결하게 된다
 
-print(ans)
+print(ans) 
