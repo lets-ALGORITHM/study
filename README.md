@@ -5,7 +5,7 @@
 ---
 ### ~9/23
 - 동하 : 
-- 정아 :
+- 정아 : https://www.acmicpc.net/problem/16918 https://www.acmicpc.net/problem/3980
 
 ---
 ### ~9/10
