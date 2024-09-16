@@ -2,6 +2,9 @@
 
 - 문제난이도 : 실3 ~ 골5
 
+### ~9/23
+- 동하 : 
+- 정아 : 
 
 ### ~9/10
 - 동하 : https://www.acmicpc.net/problem/10713 https://www.acmicpc.net/problem/2170
