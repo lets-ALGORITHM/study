@@ -3,6 +3,13 @@
 - 문제난이도 : 실3 ~ 골5
 
 ---
+### 10/3 목 17시
+- 유민 :
+- 홍규(1) : 
+- 동하 : 
+- 정아 : 
+
+---
 ### ~9/23
 - 동하 : https://www.acmicpc.net/problem/10026 https://www.acmicpc.net/problem/1699
 - 정아 : https://www.acmicpc.net/problem/16918 https://www.acmicpc.net/problem/3980
@@ -28,6 +35,8 @@
 format
 
 ---
-### ~7/8
+### 10/3 목 17시
+- 유민 :
+- 홍규 : 
 - 동하 : 
 - 정아 : 
