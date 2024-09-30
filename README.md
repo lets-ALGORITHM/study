@@ -4,7 +4,7 @@
 
 ---
 ### 10/3 목 17시
-- 유민 : https://www.acmicpc.net/problem/1138
+- 유민 : https://www.acmicpc.net/problem/1138 https://www.acmicpc.net/problem/25918
 - 홍규(1) : https://www.acmicpc.net/problem/1012
 - 동하 : https://www.acmicpc.net/problem/10972 https://www.acmicpc.net/problem/1614
 - 정아 : 
