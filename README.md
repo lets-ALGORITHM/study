@@ -7,7 +7,7 @@
 - 유민 : https://www.acmicpc.net/problem/1138 https://www.acmicpc.net/problem/25918
 - 홍규(1) : https://www.acmicpc.net/problem/1012
 - 동하 : https://www.acmicpc.net/problem/10972 https://www.acmicpc.net/problem/1614
-- 정아 : 
+- 정아 : https://www.acmicpc.net/problem/1011 https://www.acmicpc.net/problem/1080
 
 ---
 ### ~9/23
