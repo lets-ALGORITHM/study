@@ -4,17 +4,10 @@
 
 ---
 ### 10/3 목 17시
-<<<<<<< HEAD
-- 유민 :
-- 홍규(1) : https://www.acmicpc.net/problem/1012
-- 동하 : 
-- 정아 : 
-=======
 - 유민 : https://www.acmicpc.net/problem/1138 https://www.acmicpc.net/problem/25918
 - 홍규(1) : https://www.acmicpc.net/problem/1012
 - 동하 : https://www.acmicpc.net/problem/10972 https://www.acmicpc.net/problem/1614
 - 정아 : https://www.acmicpc.net/problem/1011 https://www.acmicpc.net/problem/1080
->>>>>>> 01882cd46c63d6b8bbeb176bb8ee2bc178b42d3f
 
 ---
 ### ~9/23
