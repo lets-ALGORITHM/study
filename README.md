@@ -2,6 +2,14 @@
 
 - 문제난이도 : 실3 ~ 골5
 
+
+---
+### 10/10
+- 유민
+- 홍규 : https://www.acmicpc.net/problem/17413
+- 동하
+- 정아
+
 ---
 ### 10/3 목 17시
 - 유민 : https://www.acmicpc.net/problem/1138 https://www.acmicpc.net/problem/25918
