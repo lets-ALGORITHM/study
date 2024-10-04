@@ -5,7 +5,7 @@
 
 ---
 ### 10/10
-- 유민
+- 유민 : https://www.acmicpc.net/problem/15927 https://www.acmicpc.net/problem/18111
 - 홍규 : https://www.acmicpc.net/problem/17413
 - 동하
 - 정아
