@@ -3,6 +3,26 @@
 - 문제난이도 : 실3 ~ 골5
 
 
+---
+### 10/10
+- 유민 : https://www.acmicpc.net/problem/15927 https://www.acmicpc.net/problem/18111
+- 홍규 : https://www.acmicpc.net/problem/17413
+- 동하
+- 정아
+
+---
+### 10/3 목 17시
+- 유민 : https://www.acmicpc.net/problem/1138 https://www.acmicpc.net/problem/25918
+- 홍규(1) : https://www.acmicpc.net/problem/1012
+- 동하 : https://www.acmicpc.net/problem/10972 https://www.acmicpc.net/problem/1614
+- 정아 : https://www.acmicpc.net/problem/1011 https://www.acmicpc.net/problem/1080
+
+---
+### ~9/23
+- 동하 : https://www.acmicpc.net/problem/10026 https://www.acmicpc.net/problem/1699
+- 정아 : https://www.acmicpc.net/problem/16918 https://www.acmicpc.net/problem/3980
+
+---
 ### ~9/10
 - 동하 : https://www.acmicpc.net/problem/10713 https://www.acmicpc.net/problem/2170
 - 정아 : https://www.acmicpc.net/problem/1629 https://www.acmicpc.net/problem/1922
@@ -22,6 +42,9 @@
 
 format
 
-### ~7/8
+---
+### 10/3 목 17시
+- 유민 :
+- 홍규 : 
 - 동하 : 
 - 정아 : 
