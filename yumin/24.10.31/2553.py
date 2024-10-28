@@ -12,3 +12,5 @@ for j in num[::-1]: # 뒷자리부터 체크
     else:
         print(j) # 0이 아니면 출력
         break
+
+# Mathematics, Number Theory
