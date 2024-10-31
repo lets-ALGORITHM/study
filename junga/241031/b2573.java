@@ -5,6 +5,13 @@ import java.util.List;
 import java.util.Arrays;
 import java.util.ArrayList;
 
+/*
+* [BFS]
+* 1. 빙산 위치를 리스트에 저장
+* 2. 해당 리스트가 다 없어질 때까지 반복문 돌기
+* 3. 반복문 안에서 bfs 수행(한 묶음 내에서 빙산 녹이기)
+*/
+
 public class b2573 {
     private static int[][] map;
     private static int[][] visited;
