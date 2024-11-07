@@ -4,6 +4,11 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.IOException;
 
+/*
+ * [구현]
+ * 1. k번째만큼 next 걸고 해당 원소 삭제하는 메소드 가지는 세미 원형 연결 리스트..? 구현
+ */
+
 public class b11866 {
     private static int k;
     public static void main(String[] args) throws IOException {
