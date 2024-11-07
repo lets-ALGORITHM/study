@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
+// https://great-park.tistory.com/131
 /*
  * [DP]
  * 1. dp[n][0] : n번째 열이 비는 경우의 수
