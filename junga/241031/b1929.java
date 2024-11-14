@@ -11,7 +11,7 @@ public class b1929 {
         sc.close();
 
         int[] arr = new int[1000001];
-        for (int i=2;i<=n;i++) {
+        for (int i=2;i<=n;i++) { // 제곱근까지만 탐색해도 됨
             arr[i] = i;
         }
 

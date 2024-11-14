@@ -13,7 +13,7 @@ for _ in range(n):
     startX, startY = map(int, input().split()) # 시작 지점
     targetX, targetY = map(int, input().split()) # 목표 지점
     
-    visited = list([0] * l for _ in range(l)) # 방문했는지 체크
+    visited = list([0] * l for _ in range(l)) # 방문했는지 체크  /// 0, 1로 방문 체크만 하지 말고 거리(cnt)를 여기다 저장
     q = deque()
     q.append((startX, startY, 0)) # (현재 x, 현재 y, 현재 이동 횟수)
     ans = float('inf')
@@ -32,6 +32,7 @@ for _ in range(n):
         for i in range(8): # 나이트 8방향으로 이동시키기
             nx, ny = x+dx[i], y+dy[i]
             if 0 <= nx < l and 0 <= ny < l: # 이동하려는 위치가 체스판 안의 위치이면
+                # visited 여부를 여기서 체크+수정하면 중복 체크 방지 가능!
                 q.append((nx, ny, cnt+1)) # deque에 추가
     
     print(ans)

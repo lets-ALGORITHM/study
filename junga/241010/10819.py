@@ -17,6 +17,7 @@ def calc(lst: list): # 해당 식 구하는 함수
 
 ans = 0 # 해당 식의 최댓값 저장
 
+## n이 20 이하일 때는 백트래킹으로 ㄱㄴ
 for l in permutations(arr):
     ans = max(ans, calc(l)) # 최댓값 갱신
 
