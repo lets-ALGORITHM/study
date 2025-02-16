@@ -20,6 +20,7 @@ for i in qstr:
         ans.append(i)
     elif flag:
         ans.append(i)
+        
     elif i==' ':
         while queue:
             ans.append(queue.pop())
